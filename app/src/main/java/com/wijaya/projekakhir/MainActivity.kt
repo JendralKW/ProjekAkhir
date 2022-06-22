@@ -27,6 +27,8 @@ import android.content.ContentValues
 import android.content.Context
 import android.os.Build
 import android.widget.TextView
+import com.otaliastudios.cameraview.CameraView
+import com.otaliastudios.cameraview.PictureResult
 
 
 typealias LumaListener = (luma: Double) -> Unit
